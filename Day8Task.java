@@ -8,7 +8,7 @@ public class Day8Task {
 		// TODO Auto-generated method stub
 // Q1) Greater value:
 		
-		/*
+		
 		int a = 20, b = 15, c = 10, d = 5;
 		if ((a+b)>(c+d)) {
 			System.out.println("Sum of a and b is greater than sum of c and d");
@@ -110,11 +110,13 @@ public class Day8Task {
 		else {
 			System.out.println("Not senior citizen");
 		}
-		*/
+		
 		
 // Q10) Number of digits in an integer
 		
 		int a = String.valueOf(546568).length();
 		System.out.println(a);
+	
+		
 		}
 }
